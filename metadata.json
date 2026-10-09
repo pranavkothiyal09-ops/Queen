@@ -1,0 +1,6 @@
+{
+  "name": "Queen's Bakery",
+  "description": "A premium online-only bakery e-commerce experience featuring artisanal pastries and cakes with refined motion design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
